@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "214971660015",
+    "firebase_url": "https://selfmanagetimetable.firebaseio.com",
+    "project_id": "selfmanagetimetable",
+    "storage_bucket": "selfmanagetimetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214971660015:android:8a9894ef39f69664b80d1a",
+        "android_client_info": {
+          "package_name": "com.bit.selfmanagementtimetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214971660015-nhdutdv91fr5urvisgvbjig42tdr848p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdNy-KX_RlTI_Me65tFHA9u4wYZSiTC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214971660015-nhdutdv91fr5urvisgvbjig42tdr848p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
